@@ -1,0 +1,26 @@
+.pink{
+    color: #fc31ff;
+}
+
+.blue{
+    color: #1a1aff;   
+}
+
+.green{
+    color: #30a909;
+}
+
+.gray{
+    color: #696969;
+}
+
+.square {
+     width: 20px; 
+     height: 20px;
+     border: 2px solid #000;
+     display: inline-grid;
+}
+
+.table>thead:first-child>tr:first-child>th {
+	text-align: center;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "Prueba para Cuemby",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Juanes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "method-override": "^2.3.9",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.11.0",
+    "ui-bootstrap": "^0.1.10"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.7.0"
+  }
+}
